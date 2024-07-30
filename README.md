@@ -1,4 +1,4 @@
-# Weather App
+# My Weather App
 
 This project is a simple weather app that allows users to search for the current weather and the upcoming 5 days weather of any city.
 
