@@ -34,7 +34,7 @@ Click the link below to see a live demo of the project:
 
 [**Check Out**](https://bhupalreddysama262318.github.io/My-Weather-App/)
 
-## Licensegit add <resolved-file>
+## License git add <resolved-file>
 
 This project is licensed under the MIT License.
 
