@@ -1,10 +1,11 @@
 # Weather App
 
-This project is a simple weather app that allows users to search for the current weather in any city.
+This project is a simple weather app that allows users to search for the current weather and the upcoming 5 days weather of any city.
 
 ## Features
 
 - Search for current weather by city name
+- Or search the weather of your location 
 - Displays temperature, humidity, wind speed, and weather conditions
 - Responsive design
 
@@ -20,7 +21,7 @@ This project is a simple weather app that allows users to search for the current
 To get started with this project, clone the repository and open the `index.html` file in your browser.
 
 ```bash
-git clone https://github.com/BhupalReddySama262318/Weather-App.git
+git clone https://github.com/BhupalReddySama262318/My-Weather-App.git
 ```
 
 ## Usage
@@ -31,7 +32,7 @@ Enter the name of the city in the search box and press enter or click the search
 
 Click the link below to see a live demo of the project:
 
-[**Check Out**](https://bhupalreddysama262318.github.io/Weather-App/)
+[**Check Out**](https://bhupalreddysama262318.github.io/My-Weather-App/)
 
 ## Licensegit add <resolved-file>
 
