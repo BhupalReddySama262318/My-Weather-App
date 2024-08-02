@@ -29,6 +29,10 @@ h1{
     width: 550px;
 }
 
+.weather-input{
+    color: rgb(128,128,128);
+}
+
 .weather-input input{
     width: 100%;
     height: 45px;
@@ -218,7 +222,33 @@ button:hover {
     transform: translateY(-5px); 
 }
 
+.back-video {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
 
+
+@media(min-aspect-ratio: 16/9){
+    .back-video{
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media(max-aspect-ratio: 16/9){
+    .back-video{
+        width: auto;
+        height: 100%;
+    }
+}
+
+@media (max-width: 750px) {
+    .back-video {
+        height: auto;
+    }
+}
 
 @media (max-width: 1400px){
     .weather-data .current-weather{
